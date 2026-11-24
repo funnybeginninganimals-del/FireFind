@@ -1,0 +1,6 @@
+{
+  "name": "FireFind: Storage Search Engine",
+  "description": "A powerful search utility to discover public files and folders shared on MediaFire, Google Drive, Mega.nz, Dropbox, 4Shared, OneDrive, Proton Drive, Yandex Disk, GoFile.io, and FileGarden using AI-powered search grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
